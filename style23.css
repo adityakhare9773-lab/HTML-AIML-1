@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    background-color: #f0f0f0;
+}
+
+.card {
+    width: 300px;
+    background-color: white;
+    padding: 20px;
+    margin: 100px auto;
+    border: 1px solid gray;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    padding: 8px;
+    border: none;
+}
